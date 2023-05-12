@@ -1,0 +1,42 @@
+body{
+    margin-right: 100px;
+    margin-left: 200px;
+    width: 90%;
+}
+
+#First_box{
+    height: 8vh;
+    background-color: lightblue; 
+    margin-bottom: 30px;
+    width: 80%;
+} 
+
+#Second_box{
+    height: 30vh;
+    background-color: lightblue;
+    margin-bottom: 30px; 
+    width: 80%;
+}
+
+.Third_box>div{
+    height: 30vh;
+    width: 27%;
+    background-color: lightblue;
+}
+    
+    
+
+.Third_box{
+    display: flex;
+    width: 80%;
+    height: 35vh;
+    justify-content: space-between;
+}
+
+#Last_box{
+    height: 15vh;
+    background-color: lightblue;
+    margin-bottom: 20px; 
+    width: 80%;
+
+}
